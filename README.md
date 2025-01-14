@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **MealTime App **
 - 💬 Ask me about: **Flutter , Nextjs ,  AI automation **
-- 📂 Portfolio: **<a href="https://omarelhassanialaoui.xyz/" target="_blank">https://omarelhassanialaoui.vercel.app/</a>**
+- 📂 Portfolio: **<a href="https://omarelhassanialaoui.xyz/" target="_blank">https://omarelhassanialaoui.xyz/</a>**
 - 📝 Blog: **<a href="https://medium.com/@omarelhassanialaoui" target="_blank">https://medium.com/@omarelhassanialaoui</a>**
 
 
