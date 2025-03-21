@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **MealTime App **
-- 💬 Ask me about: **Flutter , Nextjs ,  AI automation **
+- 💼 I'm currently working on: **Flutcn UI**
+- 💬 Ask me about: **Flutter , Nextjs ,  AI automation**
 - 📂 Portfolio: **<a href="https://omarelhassanialaoui.xyz/" target="_blank">https://omarelhassanialaoui.xyz/</a>**
 - 📝 Blog: **<a href="https://medium.com/@omarelhassanialaoui" target="_blank">https://medium.com/@omarelhassanialaoui</a>**
 
