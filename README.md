@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Flutcn UI**
-- 💬 Ask me about: **Flutter , Nextjs ,  AI automation**
+- 💬 Ask me about: **Flutter , Nextjs ,  AI Agents & Automation**
 - 📂 Portfolio: **<a href="https://omarelhassanialaoui.xyz/" target="_blank">https://omarelhassanialaoui.xyz/</a>**
 - 📝 Blog: **<a href="https://medium.com/@omarelhassanialaoui" target="_blank">https://medium.com/@omarelhassanialaoui</a>**
 
