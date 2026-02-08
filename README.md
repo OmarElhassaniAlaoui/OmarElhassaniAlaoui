@@ -1,5 +1,4 @@
-![👋 Hi, my name is Omar](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
+<img src="./X1.png" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmarElhassaniAlaoui&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
