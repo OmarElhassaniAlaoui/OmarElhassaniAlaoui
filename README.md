@@ -1,4 +1,4 @@
-<img src="./X1.png" />
+<img src="./HDitxBAWYAAiy-O.jpeg" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OmarElhassaniAlaoui&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
